@@ -23,3 +23,5 @@ https://paypal.me/NomadCapitalFX
 -Do not send more, nor less than the amount required.
 
 -This is not refundable.
+
+See you inside :)
