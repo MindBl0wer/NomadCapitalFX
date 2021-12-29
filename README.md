@@ -20,6 +20,7 @@ PayHip Method
 https://payhip.com/b/dBv4O
 
 Crypto Method
+
 To pay through crypto I'll need you to message me and tell exactly the next:
 "I want to pay through crypto, with [COIN]".
 To which I'll answer with an address and the exact amount you'll have to send. Please make sure the commissions are charged on your side, I should receive the exact amount mentioned to you in the message.
